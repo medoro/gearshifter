@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------------------------------
- Sample code by Matthew Heironimus | https://github.com/MHeironimus/ArduinoJoystickLibrary
+ Based on Sample code by Matthew Heironimus | https://github.com/MHeironimus/ArduinoJoystickLibrary
  2016-11-24
 --------------------------------------------------------------------
   Gear shifter for MAN lever and ETS2/ATS
